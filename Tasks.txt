@@ -1,0 +1,5 @@
+Mesaj harta de la server la client ................................................... teo
+Pornire timer la join-ul primului client si oprire la mesaj de pauza ................. teo
+
+Pentru backup - Modificare clasa PacketL astefel incat sa fie string.................. cata
+( doar pentru cazul in care avem probleme cu micsorarea timerului )

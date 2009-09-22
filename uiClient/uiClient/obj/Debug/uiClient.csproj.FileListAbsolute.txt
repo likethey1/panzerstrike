@@ -1,0 +1,17 @@
+D:\battleCity\battleCity_last\uiClient\uiClient\obj\Debug\uiClient.exe
+D:\battleCity\battleCity_last\uiClient\uiClient\obj\Debug\uiClient.pdb
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\uiClient.exe
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\uiClient.pdb
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\ConnectionManager.dll
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\PacketL.dll
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\PacketL.pdb
+D:\battleCity\battleCity_last\uiClient\uiClient\bin\Debug\ConnectionManager.pdb
+D:\battleCity\battleCity_last\uiClient\uiClient\obj\Debug\ResolveAssemblyReference.cache
+D:\battleCity\battleCity_last\uiClient\uiClient\obj\Debug\uiClient.Form1.resources
+D:\battleCity\battleCity_last\uiClient\uiClient\obj\Debug\uiClient.Properties.Resources.resources
+D:\battleCity\battleCity_last\uiClient\uiClient\obj\Debug\uiClient.csproj.GenerateResource.Cache

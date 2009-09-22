@@ -1,0 +1,20 @@
+C:\Users\teodora.popovici\Documents\Visual Studio 2008\Projects\PacketL\PacketL\bin\Debug\PacketL.dll
+C:\Users\teodora.popovici\Documents\Visual Studio 2008\Projects\PacketL\PacketL\bin\Debug\PacketL.pdb
+C:\Users\teodora.popovici\Documents\Visual Studio 2008\Projects\PacketL\PacketL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\teodora.popovici\Documents\Visual Studio 2008\Projects\PacketL\PacketL\obj\Debug\PacketL.dll
+C:\Users\teodora.popovici\Documents\Visual Studio 2008\Projects\PacketL\PacketL\obj\Debug\PacketL.pdb
+C:\Users\teodora.popovici\Documents\proiect\PacketL\PacketL\bin\Debug\PacketL.dll
+C:\Users\teodora.popovici\Documents\proiect\PacketL\PacketL\bin\Debug\PacketL.pdb
+C:\Users\teodora.popovici\Documents\proiect\PacketL\PacketL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\teodora.popovici\Documents\proiect\PacketL\PacketL\obj\Debug\PacketL.dll
+C:\Users\teodora.popovici\Documents\proiect\PacketL\PacketL\obj\Debug\PacketL.pdb
+D:\battleCity\battleCity_shared\PacketL\PacketL\bin\Debug\PacketL.dll
+D:\battleCity\battleCity_shared\PacketL\PacketL\bin\Debug\PacketL.pdb
+D:\battleCity\battleCity_shared\PacketL\PacketL\obj\Debug\ResolveAssemblyReference.cache
+D:\battleCity\battleCity_shared\PacketL\PacketL\obj\Debug\PacketL.dll
+D:\battleCity\battleCity_shared\PacketL\PacketL\obj\Debug\PacketL.pdb
+D:\battleCity\btlastStand\PacketL\PacketL\bin\Debug\PacketL.dll
+D:\battleCity\btlastStand\PacketL\PacketL\bin\Debug\PacketL.pdb
+D:\battleCity\btlastStand\PacketL\PacketL\obj\Debug\ResolveAssemblyReference.cache
+D:\battleCity\btlastStand\PacketL\PacketL\obj\Debug\PacketL.dll
+D:\battleCity\btlastStand\PacketL\PacketL\obj\Debug\PacketL.pdb
