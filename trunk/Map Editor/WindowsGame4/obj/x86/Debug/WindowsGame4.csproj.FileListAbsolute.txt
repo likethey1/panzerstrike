@@ -1,0 +1,19 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Logo 1.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Logo 2.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Tank 1 - Body.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Tank 1 - Turret.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Tank 2 - Body.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Tank 2 - Turret.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Tank 3 - Body.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Tank 3 - Turret.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Tile 1.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Tile 2.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Tile 3.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Tile 4.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\myFont.xnb

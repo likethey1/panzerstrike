@@ -1,0 +1,7 @@
+D:\battleCity\battleCity_last\ConnectionManager\ConnectionManager\bin\Debug\ConnectionManager.dll
+D:\battleCity\battleCity_last\ConnectionManager\ConnectionManager\bin\Debug\ConnectionManager.pdb
+D:\battleCity\battleCity_last\ConnectionManager\ConnectionManager\bin\Debug\PacketL.dll
+D:\battleCity\battleCity_last\ConnectionManager\ConnectionManager\bin\Debug\PacketL.pdb
+D:\battleCity\battleCity_last\ConnectionManager\ConnectionManager\obj\Debug\ResolveAssemblyReference.cache
+D:\battleCity\battleCity_last\ConnectionManager\ConnectionManager\obj\Debug\ConnectionManager.dll
+D:\battleCity\battleCity_last\ConnectionManager\ConnectionManager\obj\Debug\ConnectionManager.pdb

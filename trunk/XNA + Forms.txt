@@ -1,0 +1,75 @@
+	-- Mai jos gasesti functiile prin care faci legatura intre o fereastra XNA si un Windows.Form
+	-- In acel Windows.Form trebuie sa apara un Panel, in care se va face efectiv rendering-ul
+	-- La mine, e vorba de Command.Panel (CommandForm e un descendent din Windows.Form)	
+
+	public MapEditor(CommandForm Command)
+        {
+            Form EditorWindow = (Form)Control.FromHandle((this.Window.Handle));
+
+            GraphicsManager = new GraphicsDeviceManager(this);
+            GraphicsManager.PreparingDeviceSettings += new EventHandler<PreparingDeviceSettingsEventArgs>(OnPreparingDeviceSettings);
+            this.Command = Command;
+            this.IsFixedTimeStep = false;
+            this.IsMouseVisible = false;
+            Content.RootDirectory = "Content";
+            EditorWindow.GotFocus += new EventHandler(OnEditorGotFocus);
+            Command.Panel.Resize += new EventHandler(OnCommandPanelResize);
+            
+            return;
+        }
+
+        #region Event Handlers
+
+        private void OnPreparingDeviceSettings(Object Sender, PreparingDeviceSettingsEventArgs Params)
+        {
+            Params.GraphicsDeviceInformation.PresentationParameters.DeviceWindowHandle = Command.Panel.Handle;
+            Params.GraphicsDeviceInformation.PresentationParameters.PresentationInterval = PresentInterval.Immediate;
+            Params.GraphicsDeviceInformation.PresentationParameters.EnableAutoDepthStencil = true;
+            Params.GraphicsDeviceInformation.PresentationParameters.BackBufferFormat = SurfaceFormat.Bgr32;
+
+            return;
+        }
+
+        private void OnEditorGotFocus(object Sender, EventArgs Params)
+        {
+            (Sender as Form).Visible = false;
+            Command.TopMost = false;
+        }
+
+
+        private void OnCommandPanelResize(object sender, EventArgs Params)
+        {
+            GraphicsManager.PreferredBackBufferWidth = Command.Panel.Width;
+            GraphicsManager.PreferredBackBufferHeight = Command.Panel.Height;
+            GraphicsManager.PreferredDepthStencilFormat = DepthFormat.Depth24;
+            GraphicsManager.ApplyChanges();
+        }
+
+	#endregion
+
+	-- Ok, iar aici gasesti apelurile din Main()
+
+	public static MapEditor Editor = null;
+
+        [STAThread]
+        static void Main(string[] args)
+        {
+            CommandForm Command = new CommandForm();
+            Command.Disposed += new EventHandler(CommandForm.OnFormDispose);
+            using (Editor = new MapEditor(Command))
+            {
+                Command.Show();
+                Command.TopMost = true;
+                Editor.Run();
+            }
+
+            return;
+        }
+
+	-- Urmatoarea functie trebuie sa apara in sursa in care se defineste
+	-- clasa CommandForm
+
+	public static void OnFormDispose(Object Sender, EventArgs Params)
+        {
+            Program.Editor.Exit();
+        }
